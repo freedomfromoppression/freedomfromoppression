@@ -1,6 +1,7 @@
 ### 안녕하세요! 👋
 
 저는 GitHub 프로필을 꾸미는 것을 시도하고 있는데 도움이 필요해요. 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=freedomfromoppression)](https://solved.ac/freedomfromoppression)
 
 - 🔭 현재는 다양한 프로젝트에 참여하고 있어요.
 - 🌱 새로운 기술을 학습하고 있어요.
